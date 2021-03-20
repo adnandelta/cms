@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "182794788827",
+    "firebase_url": "https://cms-silver-default-rtdb.firebaseio.com",
+    "project_id": "cms-silver",
+    "storage_bucket": "cms-silver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182794788827:android:da065f69d43eeb856b91fe",
+        "android_client_info": {
+          "package_name": "com.example.cms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182794788827-g4ormd5s0c83r748evd13ferbp266b7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVXqHkWkyN2oIkS_YXkkcegcoWnERZrFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182794788827-g4ormd5s0c83r748evd13ferbp266b7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
