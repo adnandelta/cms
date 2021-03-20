@@ -8,25 +8,18 @@
         <title>
           Classroom Management System
         </title>
-        <link rel="stylesheet" href="css/styles.css">
+        <link rel="stylesheet" href="/static/css/styles.css">
     </head>
 
     <body>
     
 
      <div class="container">
-        <img src='img/colorlog.png' id ='picture' alt='Cannot display image'>
-        <h1 class = "swag">
-          Classroom Management System
-        </h1>
-        <br>
-        <h2 class="button2">
-          <a href="register.html">Register</a>
-        </h2>
-        
-        <h2 class="button3">
-          <a href="login.html">Login</a>
-        </h2>
+        <h1 class="heading">Classroom Management System</h1>
+        <div class="buttons">
+          <a class="button" href="{{ url_for('register') }}">Register</a>
+          <a class="button" href="{{ url_for('login') }}">Login</a>
+        </div>
      </div>
           
     </body>    
